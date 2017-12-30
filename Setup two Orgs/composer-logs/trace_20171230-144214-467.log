@@ -1,0 +1,12 @@
+2017-12-29T12:42:16.629Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Error starting container: API error (404): {"message":"network _medichain not found"}
+
+    at /home/tibi/.nvm/versions/node/v8.9.3/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2017-12-29T12:42:16.651Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Error starting container: API error (404): {"message":"network _medichain not found"}
+
+    at /home/tibi/.nvm/versions/node/v8.9.3/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2017-12-29T12:42:16.685Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Error starting container: API error (404): {"message":"network _medichain not found"}
+
+    at /home/tibi/.nvm/versions/node/v8.9.3/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2017-12-29T12:42:16.701Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Error starting container: API error (404): {"message":"network _medichain not found"}
+
+    at /home/tibi/.nvm/versions/node/v8.9.3/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
